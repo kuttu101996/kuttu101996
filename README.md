@@ -9,7 +9,7 @@
 <!-- 58a6ff
 0e75b6 -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <a href="https://twitter.com/s_g_d_96" target="blank"><img src="https://img.shields.io/twitter/follow/s_g_d_96?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
