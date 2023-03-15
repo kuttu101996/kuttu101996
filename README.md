@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/kuttu101996">
+    <img src="https://img.shields.io/github/followers/kuttu101996?style=for-the-badge&logo=github">
+</a>
 <!--
 **kuttu101996/kuttu101996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
