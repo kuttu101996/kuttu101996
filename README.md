@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/github/followers/kuttu101996?style=for-the-badge&logo=github">
   <a href="https://github.com/kuttu101996">
     <img src="https://img.shields.io/github/stars/kuttu101996?style=for-the-badge&logo=git">
-  <a href="https://github.com/kuttu101996/kuttu101996">
-    <img src="https://img.shields.io/github/watchers/kuttu101996/kuttu101996?style=for-the-badge&logo=git">
+  <a href="https://github.com/kuttu101996">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=cutesquirrel519&style=for-the-badge&logo=GitHub"/></a>
 
 </p>
 
