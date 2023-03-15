@@ -1,15 +1,16 @@
 <!-- <h1 align="center">Hi 👋, I'm Snehasish Ghosh Dastidar</h1> -->
+<br>
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Snehasish%20Ghosh%20Dastidar;A%20passionate%20backend%20developer%20from%20Indoa;&font=Pacifico&center=true&width=750&height=80&color=58a6ff&vCenter=true&size=35%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Snehasish%20Ghosh%20Dastidar;A%20passionate%20backend%20developer%20from%20Indoa;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35%22"></a>
 </p>
-<h3 align="center">A passionate backendend developer from India</h3>
+<!-- <h3 align="center">A passionate backendend developer from India</h3> -->
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuttu101996&label=Profile%20views&color=58a6ff&style=flat" alt="kuttu101996" /> </p>
 
 <!-- 58a6ff
 0e75b6 -->
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <a href="https://twitter.com/s_g_d_96" target="blank"><img src="https://img.shields.io/twitter/follow/s_g_d_96?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
