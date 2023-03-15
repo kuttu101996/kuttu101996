@@ -2,8 +2,12 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Jose%20Cipriano;Both%20Frontend%20and%20Backend;7%2B%20years%20of%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <br>
