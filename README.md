@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Snehasish Ghosh Dastidar</h1> -->
 <br>
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Snehasish%20Ghosh%20Dastidar;A%20passionate%20backend%20developer%20from%20Indoa;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35%22"></a>
+  <a href="https://github.com/kuttu101996"><img src="https://readme-typing-svg.herokuapp.com/?lines=Snehasish%20Ghosh%20Dastidar;A%20passionate%20backend%20developer%20from%20Indoa;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35%22"></a>
 </p>
 <!-- <h3 align="center">A passionate backendend developer from India</h3> -->
 
