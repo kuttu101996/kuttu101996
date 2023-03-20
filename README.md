@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **AWS, MEARN**
 
-- 👨‍💻 Portfolio link [https://github.com/kuttu101996](https://github.com/kuttu101996)
+- 👨‍💻 Portfolio link [https://github.com/kuttu101996](https://kuttu101996.github.io/)
 
 - 💬 Ask me about **JS, Node, MongoDB**
 
