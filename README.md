@@ -41,8 +41,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
     </td>
-  </tr>
-  <tr style="background-color:#f5f5f5">
     <td align="center"><b>App Development</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
@@ -50,15 +48,13 @@
     <td align="center"><b>Languages</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr style="background-color:#f5f5f5">
     <td align="center"><b>Cloud</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
     </td>
     <td align="center"><b>Others</b><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+    </td>
     </td>
   </tr>
 </table>
@@ -75,6 +71,12 @@
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
 
+<!--
+  </tr>
+  <tr style="background-color:#f5f5f5">
+  </tr>
+  <tr style="background-color:#f5f5f5">
+-->
 <!--src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/> -->
  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/> -->
  <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> -->
