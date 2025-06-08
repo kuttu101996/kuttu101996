@@ -3,45 +3,41 @@
 <p align="center">
   <a href="https://github.com/kuttu101996"><img src="https://readme-typing-svg.herokuapp.com/?lines=Snehasish%20Ghosh%20Dastidar;A%20passionate%20backend%20developer%20from%20India;&font=Pacifico&center=true&width=750&height=55&color=58a6ff&vCenter=true&size=35%22"></a>
 </p>
-<!-- <h3 align="center">A passionate backendend developer from India</h3> -->
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuttu101996&label=Profile%20views&color=58a6ff&style=flat" alt="kuttu101996" /> </p>
 
-<!-- 58a6ff
-0e75b6 -->
-
 <p align="left"> <a href="https://twitter.com/s_g_d_96" target="blank"><img src="https://img.shields.io/twitter/follow/s_g_d_96?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, NextJS**
-
 - 👨‍💻 Portfolio link [https://kuttu101996.github.io/](https://kuttu101996.github.io/)
-
 - 💬 Ask me about **JS, Node, MongoDB**
-
 - 📫 How to reach me **snehasishgd10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" display="inline-block">
-<a href="https://twitter.com/s_g_d_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_g_d_96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/snehasish10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehasish10" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21400989/snehasish-ghosh-dastidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="snehasish-ghosh-dastidar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/snehasish10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehasish10" height="30" width="40" /></a>
-</p> <br>
+<p align="left">
+  <a href="https://twitter.com/s_g_d_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_g_d_96" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/snehasish10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehasish10" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21400989/snehasish-ghosh-dastidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="snehasish-ghosh-dastidar" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/snehasish10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehasish10" height="30" width="40" /></a>
+</p>
+
+---
+
 ## 🛠 Technical Skills
 
-Front End | Back End & DBMS | App Dev | Language | Cloud | Other  
---- | --- | --- | --- | --- | ---  
-:contentReference[oaicite:5]{index=5} | :contentReference[oaicite:6]{index=6} | :contentReference[oaicite:7]{index=7} | :contentReference[oaicite:8]{index=8} | :contentReference[oaicite:9]{index=9}
+| Frontend | Backend & DBMS | App Development | Languages | Cloud | Others |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40"/> |
 
 ---
 
 ## 📊 GitHub Public Repository Stats
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuttu101996&show_icons=true&theme=radical" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuttu101996&layout=compact&theme=radical" />
 </p>
 
