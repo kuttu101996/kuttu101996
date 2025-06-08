@@ -33,7 +33,7 @@
 
 Front End | Back End & DBMS | App Dev | Language | Cloud | Other  
 --- | --- | --- | --- | --- | ---  
-<img src="..." width="40"/> ... etc.
+:contentReference[oaicite:5]{index=5} | :contentReference[oaicite:6]{index=6} | :contentReference[oaicite:7]{index=7} | :contentReference[oaicite:8]{index=8} | :contentReference[oaicite:9]{index=9}
 
 ---
 
