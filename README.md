@@ -10,10 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/s_g_d_96" target="blank"><img src="https://img.shields.io/twitter/follow/s_g_d_96?logo=twitter&style=for-the-badge&color=58a6ff" alt="s_g_d_96" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, NextJS**
-- 👨‍💻 Portfolio link [https://kuttu101996.github.io/](https://kuttu101996.github.io/)
-- 💬 Ask me about **JS, Node, MongoDB**
-- 📫 How to reach me **snehasishgd10@gmail.com**
+👋 Hi, I'm Snehasish — Software Engineering Specialist at Impulse International.
+🔧 Backend-focused with deep experience in TypeScript, Node.js, MongoDB, and large-scale enterprise workflows.
+📊 Leading development of performance management systems and HR tech solutions.
+🧠 Passionate about clean architecture, scalable design, and making complex logic simple.
+Let’s connect and create impact-driven software! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
